@@ -114,6 +114,12 @@ This check prevents infinite loops and ensures that all paths are simple paths (
 
 # Screenshots
 
+### Roadmap to test
+![roadmap](https://github.com/phpc99/pfl-project1/blob/main/roadmap.png)
+
+### Demonstration of some functions
+![somefuncs](https://github.com/phpc99/pfl-project1/blob/main/somefuncs.png)
+
 # Authors
 
 - Nuno Simão Nunes Rios, up202206272@up.pt
