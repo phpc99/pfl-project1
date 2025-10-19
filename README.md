@@ -103,6 +103,15 @@ This check prevents infinite loops and ensures that all paths are simple paths (
 **7. Returning the Results**
 <br>After the search completes, we return the list of all shortest paths found.
 
+# Features
+
+- Implemented a graph-based system in Haskell to compute all shortest paths between two cities in an undirected graph;
+- Utilized a modified version of Dijkstra’s algorithm to efficiently explore and determine optimal routes;
+- Represented the graph using adjacency lists for efficient traversal and neighbor lookup;
+- Simulated a priority queue for path selection using functional data structures and sorting;
+- Ensured cycle avoidance through recursive path checking for visited cities;
+- Collected and returned all paths with minimal total distance between two nodes.
+
 # Authors
 
 - Nuno Simão Nunes Rios, up202206272@up.pt
