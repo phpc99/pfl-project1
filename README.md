@@ -1,11 +1,5 @@
 # PFL - Project no. 1
 
-## Overview
-
-Project developed by:
-- Nuno Simão Nunes Rios, up202206272@up.pt
-- Pedro Henrique Pessôa Camargo, up202102365@up.pt
-
 Functions 1 to 7 were developed by both students.
 <br>Function 8 was developed by Pedro.
 <br>Function 9 was developed by Nuno.
@@ -109,6 +103,7 @@ This check prevents infinite loops and ensures that all paths are simple paths (
 **7. Returning the Results**
 <br>After the search completes, we return the list of all shortest paths found.
 
-## Function no. 9, ``travelSales`` 
+# Authors
 
-
+- Nuno Simão Nunes Rios, up202206272@up.pt
+- Pedro Henrique Pessôa Camargo, up202102365@up.pt
