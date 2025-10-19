@@ -112,6 +112,8 @@ This check prevents infinite loops and ensures that all paths are simple paths (
 - Ensured cycle avoidance through recursive path checking for visited cities;
 - Collected and returned all paths with minimal total distance between two nodes.
 
+# Screenshots
+
 # Authors
 
 - Nuno Simão Nunes Rios, up202206272@up.pt
